@@ -48,7 +48,7 @@ Version: 1.0
 /*global-end*/
 /*contact-form-start*/
 .contact-form{
-    z-index: 3;
+    z-index: 1;
     background-color: #fff;
     padding: 40px;
     border-radius: 10px;
@@ -302,7 +302,6 @@ main section{
     /* contact-form-start */
     .contact-form{
         max-width: 410px;
-        z-index: 3;
     }
     /* contact-form-end */
 /* first-section-end */
